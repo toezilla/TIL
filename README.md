@@ -24,3 +24,9 @@ https://velog.io/@toezilla
 - [ ] Block Coding
 - [ ] Ethernet
 - [ ] Python ```schedule```
+
+### 2022-04-14
+- [ ] Queue
+- [ ] Smapling/Quantizint/Encoding
+
+### 2022-04-15
