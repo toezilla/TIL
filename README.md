@@ -30,3 +30,8 @@ https://velog.io/@toezilla
 - [ ] Smapling/Quantizint/Encoding
 
 ### 2022-04-15
+- [ ] Linked List
+- [ ] Analog to Analog Conversion
+- [ ] Closest Dots Problem
+- [ ] Apache Hive
+- [ ] DFS, BFS
