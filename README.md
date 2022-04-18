@@ -36,4 +36,7 @@ https://velog.io/@toezilla
 - [ ] Apache Hive
 - [ ] DFS, BFS
 
-
+### 2022-04-18
+- [ ] Dynamic Programming
+- [ ] Dijkstra Algorithm
+- [ ] Floyd's Algorithm
