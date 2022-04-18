@@ -27,7 +27,7 @@ https://velog.io/@toezilla
 
 ### 2022-04-14
 - [ ] Queue
-- [ ] Smapling/Quantizint/Encoding
+- [ ] Sampling/Quantizint/Encoding
 
 ### 2022-04-15
 - [ ] Linked List
@@ -40,3 +40,9 @@ https://velog.io/@toezilla
 - [ ] Dynamic Programming
 - [ ] Dijkstra Algorithm
 - [ ] Floyd's Algorithm
+- [ ] XOR
+- [ ] Grafana
+- [ ] Kibana
+- [ ] Tableau
+- [ ] MHD
+- [ ] Parity Check Codes
