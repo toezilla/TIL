@@ -46,3 +46,4 @@ https://velog.io/@toezilla
 - [ ] Tableau
 - [ ] MHD
 - [ ] Parity Check Codes
+- [X] Gitflow Workflow
