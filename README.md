@@ -3,8 +3,8 @@
 https://velog.io/@toezilla
 
 ### 2022-04-11
-- [ ] Divide and Conquer Algorithm
-- [ ] Binary Search Algorithm
+- [X] Divide and Conquer Algorithm
+- [X] Binary Search Algorithm
 - [X] Array
 - [ ] Data Lake/Data Warehouse/Data Mart
 - [ ] OLAP
@@ -16,10 +16,10 @@ https://velog.io/@toezilla
 - [ ] Hadoop Ecosystem
 
 ### 2022-04-13
-- [ ] Mergesort Algorithm
-- [ ] Quicksort Algorithm
+- [X] Mergesort Algorithm
+- [X] Quicksort Algorithm
 - [ ] Strassen's Matrix Multiplication Algorithm
-- [ ] Master Theorem
+- [X] Master Theorem
 - [ ] Stack
 - [ ] Block Coding
 - [ ] Ethernet
