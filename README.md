@@ -20,13 +20,13 @@ https://velog.io/@toezilla
 - [X] Quicksort Algorithm
 - [ ] Strassen's Matrix Multiplication Algorithm
 - [X] Master Theorem
-- [ ] Stack
+- [X] Stack
 - [ ] Block Coding
 - [ ] Ethernet
 - [ ] Python ```schedule```
 
 ### 2022-04-14
-- [ ] Queue
+- [X] Queue
 - [ ] Sampling/Quantizint/Encoding
 
 ### 2022-04-15
