@@ -12,7 +12,7 @@ https://velog.io/@toezilla
 - [ ] Digital to Digital Conversion
 
 ### 2022-04-12
-- [ ] KMP Algorithm
+- [X] KMP Algorithm
 - [ ] Hadoop Ecosystem
 
 ### 2022-04-13
@@ -47,3 +47,9 @@ https://velog.io/@toezilla
 - [ ] MHD
 - [ ] Parity Check Codes
 - [X] Gitflow Workflow
+
+### 2022-04-23
+- [ ] Router
+- [ ] Port
+- [ ] Hamming Code
+- [ ] CheckSum
