@@ -12,7 +12,7 @@ https://velog.io/@toezilla
 - [ ] Digital to Digital Conversion
 
 ### 2022-04-12
-- [X] KMP Algorithm
+- [X] KMP Algorithm - Notion
 - [ ] Hadoop Ecosystem
 
 ### 2022-04-13
@@ -53,3 +53,9 @@ https://velog.io/@toezilla
 - [ ] Port
 - [ ] Hamming Code
 - [ ] CheckSum
+
+### 2022-04-24
+- [ ] Apache Airflow (1) Basic Concept
+- [X] KMP Algorithm - Implementation with C and Python
+- [X] Maze - Stack & Queue project
+-  
