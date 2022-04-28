@@ -58,4 +58,7 @@ https://velog.io/@toezilla
 - [ ] Apache Airflow (1) Basic Concept
 - [X] KMP Algorithm - Implementation with C and Python
 - [X] Maze - Stack & Queue project
--  
+
+### 2022-04-28
+- [ ] Binary Tree
+- [ ] ARQ
