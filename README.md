@@ -63,6 +63,6 @@ https://velog.io/@toezilla
 - [ ] Binary Tree
 - [ ] ARQ
 
-### 2022-04-28
+### 2022-04-29
 - [ ] Fact table / Dimension Table
 - [ ] Apache Hive
