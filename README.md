@@ -1,5 +1,6 @@
 # TIL
-블로그에 정리된 것들만 체크
+오늘 배운 지식들
+블로그에 한 번 더 정리된 내용은 체크
 https://velog.io/@toezilla
 
 ### 2022-04-11
@@ -66,3 +67,10 @@ https://velog.io/@toezilla
 ### 2022-04-29
 - [ ] Fact table / Dimension Table
 - [ ] Apache Hive
+
+### 2022-05-02
+- [ ] Threaded Binary Tree
+- [ ] Postfix notation
+- [ ] ALOHA
+- [ ] Fail2ban
+- [ ] OTP
