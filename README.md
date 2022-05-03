@@ -74,3 +74,9 @@ https://velog.io/@toezilla
 - [ ] ALOHA
 - [ ] Fail2ban
 - [ ] OTP
+
+
+### 2022-05-03
+- [ ] Heap
+- [ ] Wifi
+- [ ] .zfill
