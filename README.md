@@ -80,3 +80,10 @@ https://velog.io/@toezilla
 - [ ] Heap
 - [ ] Wifi
 - [ ] .zfill
+
+### 2022-05-04
+- [ ] Process
+- [ ] PCB
+- [ ] Scheduler
+- [ ] CSMA
+- [ ] (SQL) VARCHAR vs CHAR
