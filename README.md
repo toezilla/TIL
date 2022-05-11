@@ -75,7 +75,6 @@ https://velog.io/@toezilla
 - [ ] Fail2ban
 - [ ] OTP
 
-
 ### 2022-05-03
 - [ ] Heap
 - [ ] Wifi
@@ -87,3 +86,9 @@ https://velog.io/@toezilla
 - [ ] Scheduler
 - [ ] CSMA
 - [ ] (SQL) VARCHAR vs CHAR
+
+### 2022-05-11
+- [ ] BinarySearchTree
+- [ ] Wifi
+- [ ] Memoization
+
