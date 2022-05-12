@@ -92,3 +92,8 @@ https://velog.io/@toezilla
 - [ ] Wifi
 - [ ] Memoization
 
+### 2022-05-12
+- [ ] IP
+- [ ] Selection Trees
+- [ ] Forest
+- [ ] Disjoint Sets
