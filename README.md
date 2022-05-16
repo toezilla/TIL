@@ -97,3 +97,13 @@ https://velog.io/@toezilla
 - [ ] Selection Trees
 - [ ] Forest
 - [ ] Disjoint Sets
+
+### 2022-05-14
+- [ ] (Python) wallus operator
+
+### 2022-05-15
+- [ ] (Python) zip
+
+### 2022-05-16
+- [ ] Subnetting, supernetting
+- [ ] 
