@@ -107,3 +107,6 @@ https://velog.io/@toezilla
 ### 2022-05-16
 - [ ] Subnetting, supernetting
 - [ ] Prefix Routing
+
+### 2022-05-17
+- [ ] Bismasking
