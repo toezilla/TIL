@@ -112,3 +112,6 @@ https://velog.io/@toezilla
 - [ ] Bismasking
 - [ ] (Python) f-string
 - [ ] Trie
+
+### 2022-06-01
+= [ ] TDD
