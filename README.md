@@ -114,4 +114,4 @@ https://velog.io/@toezilla
 - [ ] Trie
 
 ### 2022-06-01
-= [ ] TDD
+- [ ] TDD
