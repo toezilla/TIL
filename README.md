@@ -115,3 +115,4 @@ https://velog.io/@toezilla
 
 ### 2022-06-01
 - [ ] TDD
+- [ ] $PATH
