@@ -116,3 +116,7 @@ https://velog.io/@toezilla
 ### 2022-06-01
 - [ ] TDD
 - [ ] $PATH
+
+### 2022-06-05
+- [ ] DFS
+- [ ] BFS
